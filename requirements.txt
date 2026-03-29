@@ -7,4 +7,5 @@ langchain-pinecone==0.2.8
 langchain-groq
 langchain-community==0.3.26
 gunicorn==23.0.0
+streamlit==1.45.1
 -e .
